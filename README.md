@@ -4,6 +4,7 @@ entryPoint in project.json is not working ???
 
 Just default console application using dotnet new.
 Only two changes:
+
 1. Added new node in project.json:
    "entryPoint": "Test"
 
